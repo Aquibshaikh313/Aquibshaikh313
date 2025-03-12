@@ -18,15 +18,7 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
 
 ###
 
-<h2 align="left">About me</h2>
 
-###
-
-<p align="left">📚 I'm currently learning javascript,Reactjs<br>🎯 Goals: Want to be problem solver</p>
-
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
