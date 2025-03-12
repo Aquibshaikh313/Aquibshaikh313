@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 💻 My Tech Stack
-HTML5 CSS3 JavaScript React Git github TailwindCSS Bootstrap TypeScript
+HTML5 CSS3 JavaScript React  github  Bootstrap 
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aquib-shaikh-3857ab226/)
