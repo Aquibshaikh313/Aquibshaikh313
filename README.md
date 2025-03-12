@@ -64,16 +64,9 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
 ### 🔥 GitHub Streaks  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aquibshaikh313&theme=tokyonight)  
 
-### 💹 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquibshaikh313&layout=compact&theme=tokyonight)  
-
-### 📊 GitHub Stats  
-![Aquib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aquibshaikh313_icons=true&theme=tokyonight)  
-
 ### 🔥 GitHub Streaks  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aquibshaikh313&theme=tokyonight)  
 
-### 💹 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquibshaikh313&layout=compact&theme=tokyonight)  
+
 
 
