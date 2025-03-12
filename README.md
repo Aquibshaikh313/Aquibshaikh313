@@ -5,6 +5,14 @@
 <p align="left">
 I love transforming ideas into beautiful, functional websites with HTML & CSS. Right now, I’m diving deeper into JavaScript to add more interactivity to my projects. I also enjoy sharing coding insights on Twitter, helping others in the web dev community! Let's connect and grow together.</p>
 
+<h3 align="left">❤️ More About Me!</h3>
+<p align="left">💜 Obsessed with CSS—crafting sleek, pixel-perfect designs!</p>
+<p align="left">🔥 Always leveling up—learning, solving problems, and debugging like a pro.</p>
+<p align="left">🕵️ Debugging? More like detective work—I love hunting down & crushing bugs!</p>
+<p align="left">😂 Creating coding memes on Twitter—because dev life needs humor!</p>
+<p align="left">👯 Love connecting, sharing ideas, and building cool stuff with fellow devs.</p>
+<p align="left">🏏 Cricket fanatic—catch me coding or cheering for my team!</p>
+
 ###
 
 <h2 align="left">About me</h2>
