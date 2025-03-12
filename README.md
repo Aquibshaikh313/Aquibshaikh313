@@ -59,10 +59,14 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### 📊 GitHub Stats  
-![Aquib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aquibshaikh313&show_icons=true&theme=tokyonight)  
+![Aquib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aquibshaikh313&show_icons=true&theme=tokyonight) 
+
+### 👀 Profile Visitors  
+![Profile Views](https://komarev.com/ghpvc/?username=Aquibshaikh313&color=blue&style=flat-square)
+
 
 ### 🔥 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aquibshaikh313&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aquibshaikh313&theme=tokyonight&hide_border=false)
 
 
 
