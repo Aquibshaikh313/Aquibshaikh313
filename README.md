@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aquib shaikh and I'm a Mern dev from Ahmednagar, Maharashtra.</p>
+<p align="left">My name is Aquib shaikh and I'm a Mern stack developer from Ahmednagar, Maharashtra.</p>
 
 ###
 
