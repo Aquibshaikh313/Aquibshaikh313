@@ -6,7 +6,7 @@
 I love transforming ideas into beautiful, functional websites with HTML & CSS. Right now, I’m diving deeper into JavaScript to add more interactivity to my projects. I also enjoy sharing coding insights on Twitter, helping others in the web dev community! Let's connect and grow together.</p>
 
 <h3>❤️ More About Me!</h3>
-<ul>
+<ul list-style: none;>
   <li>💜 Obsessed with **CSS**—crafting sleek, pixel-perfect designs!</li>
   <li>🔥 Always leveling up—learning, solving problems, and debugging like a pro.</li>
   <li>🕵️ Debugging? More like detective work—I love hunting down & crushing bugs!</li>
