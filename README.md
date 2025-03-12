@@ -1,8 +1,9 @@
-<h1 align="left">Hey folks</h1>
+<h1 align="left">Hey folks,I am Aquib Shaikh</h1>
 
 ###
-
-<p align="left">My name is Aquib shaikh and I'm a Mern dev from Ahmednagar, Maharashtra.</p>
+<h3 align="left">Frontend Developer | HTML & CSS Enthusiast</h3>
+<p align="left">
+I love transforming ideas into beautiful, functional websites with HTML & CSS. Right now, I’m diving deeper into JavaScript to add more interactivity to my projects. I also enjoy sharing coding insights on Twitter, helping others in the web dev community! Let's connect and grow together.</p>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Reactjs<br>🎯 Goals: Want to be problem solver</p>
+<p align="left">📚 I'm currently learning javascript,Reactjs<br>🎯 Goals: Want to be problem solver</p>
 
 ###
 
