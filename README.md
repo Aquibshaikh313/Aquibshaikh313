@@ -59,13 +59,13 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### 📊 GitHub Stats  
-![Aquib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
+![Aquib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aquibshaikh313&show_icons=true&theme=tokyonight)  
 
 ### 🔥 GitHub Streaks  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aquibshaikh313&theme=tokyonight)  
 
 ### 💹 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquibshaikh313&layout=compact&theme=tokyonight)  
 
 ### 📊 GitHub Stats  
 ![Aquib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aquibshaikh313_icons=true&theme=tokyonight)  
@@ -74,6 +74,6 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aquibshaikh313&theme=tokyonight)  
 
 ### 💹 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquibshaikh313&layout=compact&theme=tokyonight)  
 
 
