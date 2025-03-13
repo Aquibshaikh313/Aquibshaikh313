@@ -62,11 +62,13 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
 ![Aquib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aquibshaikh313&show_icons=true&theme=tokyonight) 
 
 ### 👀 Profile Visitors  
-![Profile Views](https://komarev.com/ghpvc/?username=Aquibshaikh313&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Aquibshaikh313&color=blue)
+
 
 
 ### 🔥 GitHub Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Aquibshaikh313&theme=tokyonight&hide_border=false)
+
 
 
 
