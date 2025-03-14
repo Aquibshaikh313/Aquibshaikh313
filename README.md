@@ -15,10 +15,6 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
   <li>🏏 Cricket fanatic—catch me coding or cheering for my team!</li>
 </ul>
 
-
-###
-
-
 ### Connect with me
 
 <div align="left">
@@ -28,25 +24,18 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
 
 ###
 ### 🛠️ Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
 
 ### 📊 GitHub Stats  
 ![Aquib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aquibshaikh313&show_icons=true&theme=tokyonight) 
-
-### 👀 Profile Visitors  
-![Profile Views](https://komarev.com/ghpvc/?username=Aquibshaikh313&color=blue)
-
-
-
-### 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aquibshaikh313&theme=tokyonight&hide_border=false)
-
-
 
 
 
