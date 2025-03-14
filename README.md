@@ -7,12 +7,11 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
 
 <h3>❤️ More About Me!</h3>
 <ul list-style: none;>
-  <li>💜 Obsessed with **CSS**—crafting sleek, pixel-perfect designs!</li>
-  <li>🔥 Always leveling up—learning, solving problems, and debugging like a pro.</li>
+  <li>🔥 Always leveling up—learning, solving problems, and debugging.</li>
   <li>🕵️ Debugging? More like detective work—I love hunting down & crushing bugs!</li>
   <li>😂 Creating coding memes on Twitter—because dev life needs humor!</li>
   <li>👯 Love connecting, sharing ideas, and building cool stuff with fellow devs.</li>
-  <li>🏏 Cricket fanatic—catch me coding or cheering for my team!</li>
+  
 </ul>
 
 ### Connect with me
