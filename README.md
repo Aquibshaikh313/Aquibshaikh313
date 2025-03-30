@@ -9,7 +9,7 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
 <ul list-style: none;>
   <li>🔥 Always leveling up—learning, solving problems, and debugging.</li>
   <li>🕵️ Debugging? More like detective work—I love hunting down & crushing bugs!</li>
-  <li>😂 Creating coding memes on Twitter—because dev life needs humor!</li>
+  <li>😂Journaling my coding journey on twitter(X) </li>
   <li>👯 Love connecting, sharing ideas, and building cool stuff with fellow devs.</li>
   
 </ul>
