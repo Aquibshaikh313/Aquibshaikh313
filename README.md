@@ -7,9 +7,9 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
 
 <h3>❤️ More About Me!</h3>
 <ul list-style: none;>
-  <li>🔥Journaling my coding journey on twitter(X).</li>
-  <li>High on Javascript</li>
+    <li>High on Javascript</li>
   <li>Weekly web3</li>
+  <li>Join me on twitter</li>
   
 </ul>
 
