@@ -7,8 +7,10 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
 
 <h3>❤️ More About Me!</h3>
 <ul list-style: none;>
-    <li>High on Javascript</li>
-  <li>Weekly web3</li>
+     <li>Currently working on Java(DSA)</li>
+      <li>Project360</li>
+        <li>High on Javascript</li>
+      <li>Weekly web3</li>
   <li>Join me on twitter</li>
   
 </ul>
