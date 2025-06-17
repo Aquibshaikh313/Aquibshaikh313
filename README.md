@@ -10,9 +10,7 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
      <li>Currently working on Java(DSA)</li>
       <li>Project360</li>
         <li>High on Javascript</li>
-      <li>Weekly web3</li>
-  <li>Join me on twitter</li>
-  
+     
 </ul>
 
 ###
