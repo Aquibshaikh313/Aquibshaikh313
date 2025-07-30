@@ -31,6 +31,9 @@ I love transforming ideas into beautiful, functional websites with HTML & CSS. R
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aquibshaikh313&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aquibshaikh313&show_icons=true&theme=tokyonight)
+
+
 
 ### Connect with me
 
