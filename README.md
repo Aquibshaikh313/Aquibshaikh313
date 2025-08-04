@@ -2,8 +2,6 @@
 
 ![Particle Background](https://github.com/Aquib313/Aquib313/blob/main/particle-bg.gif?raw=true)
 
-## Hello, I'm Aquib Shaik
-
 A passionate self-taught developer on a journey to improve my coding skills, with an aim to be a problem solver full-stack developer, mastering DSA and exploring upcoming tech stacks.
 
 ---
