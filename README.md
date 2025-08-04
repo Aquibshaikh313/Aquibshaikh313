@@ -1,6 +1,6 @@
 <!-- Centered Name with Tech Blue Color -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=36&duration=1000&pause=500&color=2563EB&center=true&width=500&lines=Aquib+Shaikh" alt="Aquib Shaikh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=36&duration=3000&pause=500&color=2563EB&center=true&width=500&lines=Aquib+Shaikh" alt="Aquib Shaikh" />
 </h1>
 
 <!-- Taller Wavy Divider (Blue Gradient) -->
