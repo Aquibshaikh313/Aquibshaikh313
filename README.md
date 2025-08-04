@@ -1,31 +1,44 @@
-<h1 align="left">Hey folks,I am Aquib Shaikh</h1>
+# Aquib Shaik
 
-###
-<h3 align="left">Frontend Developer | HTML & CSS Enthusiast</h3>
-<p align="left">
-I love transforming ideas into beautiful, functional websites with HTML & CSS. Right now, I’m diving deeper into JavaScript to add more interactivity to my projects. I also enjoy sharing coding insights on Twitter, helping others in the web dev community! Let's connect and grow together.</p>
+![Particle Background](https://github.com/Aquib313/Aquib313/blob/main/particle-bg.gif?raw=true)
 
-<h3>❤️ More About Me!</h3>
-<ul list-style: none;>
-     <li>Currently working on Java(DSA)</li>
-      <li>Project360</li>
-        <li>High on Javascript</li>
-     
-</ul>
+## Hello, I'm Aquib Shaik
 
-###
-### 🛠️ Tech Stack  
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+A passionate self-taught developer on a journey to improve my coding skills, with an aim to be a problem solver full-stack developer, mastering DSA and exploring upcoming tech stacks.
 
-</div>
+---
 
+### About Me
+- Currently working on ReactJS projects and improving my Java for DSA (logic building)
+- Participating in #100daysofcode challenge on X
+- You can ask me about: HTML, CSS, JavaScript, React, Java
+- Practising on LeetCode: [leetcode.com/u/Aquib313/](https://leetcode.com/u/Aquib313/)
+- Sharing/documenting my daily learning/coding on X: [x.com/AquibShaik94912](https://x.com/AquibShaik94912)
+
+---
+
+### Tools & Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aquib313&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquib313&layout=compact&theme=radical)
 
 ### 🔥 My GitHub Streak Stats
 
