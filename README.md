@@ -16,8 +16,8 @@ A passionate self-taught developer on a journey to improve my coding skills, wit
 - Currently working on ReactJS projects and improving my Java for DSA (logic building)
 - Participating in #100daysofcode challenge on X
 - You can ask me about: HTML, CSS, JavaScript, React, Java
-- Practising on LeetCode: [leetcode.com/u/Aquib313/](https://leetcode.com/u/Aquib313/)
-- Sharing/documenting my daily learning/coding on X: [x.com/AquibShaik94912](https://x.com/AquibShaik94912)
+- Practising on <a href="https://leetcode.com/u/Aquib313/">Leetcode</a>
+- Sharing/documenting my daily learning/coding on <a href="https://x.com/AquibShaik94912"> X </a>
 
 ---
 
