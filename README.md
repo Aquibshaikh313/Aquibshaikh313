@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=500&color=38F7D6&center=true&vCenter=true&width=500&height=80&lines=%F0%9F%8C%88%20Aquib%20Shaik%20%F0%9F%8C%88;Full-Stack%20Developer;Problem%20Solver;DSA%20Enthusiast" alt="Aquib Shaik" />
-</p>
+<!-- Centered Name with Subtle Tech Theme -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&duration=2000&pause=500&color=20C997&center=true&width=500&lines=Aquib+Shaik" alt="Aquib Shaik" />
+</h1>
 
-<!-- Wavy divider -->
+<!-- Neutral Wavy Divider (Blue-Green Gradient) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=%20&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20B2AA,100:008080&height=60&section=header&text=%20&fontSize=30" />
 </p>
 
 A passionate self-taught developer on a journey to improve my coding skills, with an aim to be a problem solver full-stack developer, mastering DSA and exploring upcoming tech stacks.
